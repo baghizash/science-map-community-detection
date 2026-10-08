@@ -1,0 +1,53 @@
+{
+  "science_nodes": 677,
+  "science_edges": 6517,
+  "classes": {
+    "Social": 224,
+    "Formal": 193,
+    "Natural": 168,
+    "Applied": 92
+  },
+  "label_propagation": {
+    "n_communities": 28,
+    "modularity": 0.584188
+  },
+  "greedy_modularity": {
+    "n_communities": 14,
+    "modularity": 0.550356
+  },
+  "fluid_k11": {
+    "n_communities": 11,
+    "modularity": 0.590856
+  },
+  "girvan_newman": {
+    "n_communities": 35,
+    "modularity": 0.580687,
+    "coverage": 0.815252,
+    "performance": 0.888706,
+    "note": "hasil terverifikasi dari tugas kursus"
+  },
+  "football_gn": {
+    "n_communities": 10,
+    "modularity": 0.599629
+  },
+  "new_mexico_community": [
+    "AirForce",
+    "Arizona",
+    "ArizonaState",
+    "BrighamYoung",
+    "California",
+    "ColoradoState",
+    "NevadaLasVegas",
+    "NewMexico",
+    "Oregon",
+    "OregonState",
+    "SanDiegoState",
+    "SouthernCalifornia",
+    "Stanford",
+    "UCLA",
+    "Utah",
+    "Washington",
+    "WashingtonState",
+    "Wyoming"
+  ]
+}
